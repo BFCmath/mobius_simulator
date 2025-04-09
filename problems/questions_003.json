@@ -1,0 +1,23 @@
+{
+    "questions": [
+        {"square": 1, "question": "Phép toán logic nào có output bằng 0 khi và chỉ khi cả hai input bằng 1?", "answer": "NAND"},
+        {"square": 2, "question": "Đồ thị có chu trình Euler khi và chỉ khi mọi đỉnh có bậc gì?", "answer": "Chẵn"},
+        {"square": 3, "question": "Số Catalan thứ 4 (C_4) bằng bao nhiêu?", "answer": "14"},
+        {"square": 4, "question": "Hàm số nào có đồ thị đối xứng qua gốc tọa độ?", "answer": "Hàm lẻ"},
+        {"square": 5, "question": "Công thức nào mô tả đường thẳng trong không gian 3D?", "answer": "Phương trình tham số"},
+        {"square": 6, "question": "Tập hợp các số đại số là tập gì?", "answer": "Đếm được"},
+        {"square": 7, "question": "Phương trình x² + y² = 1 trong số phức mô tả hình gì?", "answer": "Đường tròn đơn vị"},
+        {"square": 8, "question": "Đa diện đều nào có 12 mặt?", "answer": "Khối thập nhị diện đều"},
+        {"square": 9, "question": "Phép biến đổi nào bảo toàn tỷ số kép?", "answer": "Phép biến đổi Mobius"},
+        {"square": 10, "question": "Hàm số μ(n) nhận giá trị nào nếu n chia hết cho p^2 (p nguyên tố)?", "answer": "0"},
+        {"square": 11, "question": "Đa tạp nào có biên là một đường tròn?", "answer": "Dải Mobius"},
+        {"square": 12, "question": "Nhóm các phép biến đổi tuyến tính phân hình trên ℂ∪{∞} gọi là gì?", "answer": "Nhóm Mobius"},
+
+        {"square": 13, "question": "Nếu cắt dọc dải một mặt, kết quả phụ thuộc vào gì?", "answer": "Vị trí cắt (giữa/lệch)"},
+        {"square": 14, "question": "Công thức nghịch đảo Mobius liên hệ giữa hàm nào?", "answer": "Tổng các ước và hàm nhân tính"},
+        {"square": 15, "question": "Phép biến đổi Mobius ánh xạ đường thẳng thành gì trong ℂ∪{∞}?", "answer": "Đường tròn/đường thẳng"},
+        {"square": 16, "question": "Đặc trưng Euler của dải một mặt bằng bao nhiêu?", "answer": "0"}
+    ],
+    "obstacle_answer": "Mobius",
+    "final_hint": "Gợi ý cuối: Tên nhà toán học Đức gắn với hàm số học, phép biến hình, và đa tạp một mặt."
+}

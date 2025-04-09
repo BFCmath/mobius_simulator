@@ -68,7 +68,7 @@ class ObstacleCourse:
         
         # Load questions, answers, hints, obstacle answer, and final hint from JSON
         try:
-            with open(questions_file, 'r') as f:
+            with open(questions_file, encoding='utf-8') as f:
                 data = json.load(f)
                 questions_data = data['questions']
                 self.obstacle_answer = data['obstacle_answer']

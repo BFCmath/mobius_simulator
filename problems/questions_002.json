@@ -1,0 +1,22 @@
+{
+    "questions": [
+        {"square": 1, "question": "Số tiếp theo trong dãy: 1, 1, 2, 3, 5, 8, ...?", "answer": "13"},
+        {"square": 2, "question": "Ai là cha đẻ của Đại số?", "answer": "Al-Khwarizmi"},
+        {"square": 3, "question": "Phương trình x^2 + 1 = 0 có nghiệm thực không?", "answer": "Không"},
+        {"square": 4, "question": "Hình đa giác có 7 cạnh gọi là gì?", "answer": "Thất giác"},
+        {"square": 5, "question": "Số nguyên tố nhỏ nhất là số nào?", "answer": "2"},
+        {"square": 6, "question": "Định lý nào nói 'Trong tam giác vuông, bình phương cạnh huyền bằng tổng bình phương 2 cạnh góc vuông'?", "answer": "Pythagoras"},
+        {"square": 7, "question": "Giá trị của pi làm tròn đến 2 chữ số thập phân?", "answer": "3.14"},
+        {"square": 8, "question": "Có bao nhiêu mặt trên một khối lập phương?", "answer": "6"},
+        {"square": 9, "question": "Tập hợp các số nguyên tố song sinh là gì?", "answer": "2 số nguyên tố cách nhau 2 đơn vị", "hint": "Ví dụ: (3,5) hoặc (11,13)"},
+        {"square": 10, "question": "Hàm số f(x) = e^x có đạo hàm là gì?", "answer": "e^x", "hint": "Hàm không thay đổi khi đạo hàm"},
+        {"square": 11, "question": "Số nào là số hoàn hảo nhỏ nhất (bằng tổng các ước nhỏ hơn nó)?", "answer": "6", "hint": "1+2+3=6"},
+        {"square": 12, "question": "Ai chứng minh định lý 'Mọi số tự nhiên >2 đều là tổng của 3 số nguyên tố'?", "answer": "Goldbach", "hint": "Tên một giả thuyết nổi tiếng"},
+        {"square": 13, "question": "Công thức tính diện tích hình tròn?", "answer": "(pi * r^2)"},
+        {"square": 14, "question": "Số phức i bằng bao nhiêu nếu i^2 = -1?", "answer": "(sqrt{-1})"},
+        {"square": 15, "question": "Phép toán XOR (^) giữa 1 và 0 bằng bao nhiêu?", "answer": "1"},
+        {"square": 16, "question": "Thuật toán sắp xếp nhanh (QuickSort) do ai phát minh?", "answer": "Tony Hoare"}
+    ],
+    "obstacle_answer": "Số nguyên tố",
+    "final_hint": "Tập hợp số chỉ chia hết cho 1 và chính nó."
+}
