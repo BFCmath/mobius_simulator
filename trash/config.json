@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "obstacle_term": "algorithm",
+        "image_path": "obstacle_image.png"
+    },
+    "questions": {
+        "1": {
+            "question": "What is 2 + 2?",
+            "answer": "4"
+        },
+        "2": {
+            "question": "What is the square root of 64?",
+            "answer": "8"
+        },
+        "13": {
+            "question": "What is 3 × 5?",
+            "answer": "15"
+        },
+        "16": {
+            "question": "Solve 2x + 5 = 15",
+            "answer": "5"
+        }
+    },
+    "hints": [
+        "Hint 1: Related to problem-solving",
+        "Hint 2: Fundamental to computer science",
+        "Hint 3: Follows a set of steps",
+        "Hint 4: Often represented in pseudocode"
+    ]
+}
